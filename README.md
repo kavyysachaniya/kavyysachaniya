@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an directory manager.<br>🤝 I’m looking for help with internships and opportunities.<br>🌱 I’m currently learning MERN stack & AI-ML algorithms.<br>
+🔭 I’m currently working on a smart directory manager.<br>🤝 I’m looking for help with internships and opportunities.<br>🌱 I’m currently learning MERN stack & AI-ML algorithms.<br>
 
 
 ## 🌐 Socials:
